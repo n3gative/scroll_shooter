@@ -1,0 +1,16 @@
+cloud,50,200,1
+cloud,300,150,1
+cloud,200,350,1
+ground,0,416,0
+gdirtleft,224,320,0
+gdirtright,256,320,0
+dirtleft,224,384,0
+dirtright,256,384,0
+dirtleft,224,352,0
+dirtright,256,352,0
+gdirtleft,352,320,0
+gdirtright,384,320,0
+dirtleft,352,384,0
+dirtright,384,384,0
+dirtleft,352,352,0
+dirtright,384,352,0

@@ -1,0 +1,6 @@
+1left=K_a
+1right=K_d
+1shoot=K_g
+2left=K_LEFT
+2right=K_RIGHT
+2shoot=K_m
