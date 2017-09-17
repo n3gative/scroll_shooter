@@ -1,2 +1,0 @@
-# scroll_shooter
-test

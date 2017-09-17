@@ -1,3 +1,0 @@
-rule 1: game must finished
-rule 2: see rule 1
-rule 3: no sleep till finished
